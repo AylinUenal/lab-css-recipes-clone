@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section {
+    width: 80%;
+    
+}
+
+.title {
+  background-image: url("../images/apple-pie.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1280px;
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title h1 {
+  font-size: 90px;
+  color: #fff;
+    font-weight: 100;
+}
+
+
+#introduction p {
+    
+}
